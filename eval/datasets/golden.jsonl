@@ -1,0 +1,3 @@
+{"question": "What is the annual leave entitlement for full-time employees?", "ground_truth": "Full-time employees receive 25 days of paid annual leave per year.", "source_doc": "employee_handbook.pdf", "source_snippet": "25 days of paid annual leave"}
+{"question": "How many days of notice must an employee give before resigning?", "ground_truth": "Employees must give at least 30 days written notice before resigning.", "source_doc": "employee_handbook.pdf", "source_snippet": "30 days written notice"}
+{"question": "What is the company policy on remote work?", "ground_truth": "Employees may work remotely up to three days per week with manager approval.", "source_doc": "employee_handbook.pdf", "source_snippet": "up to three days per week"}
